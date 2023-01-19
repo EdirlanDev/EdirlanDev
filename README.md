@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Edirlan Brito - DEV FULL STACK NODE JS<h1>
 
-<!--
-**EdirlanDev/EdirlanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ed.codev/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![BANNER](https://media.discordapp.net/attachments/749091631063629874/1065557727839014922/TRANQUIL_BLUE_WITH_LUSCIOUS_RED_SPACE_VIRTUAL_BACKGROUND.jpg?width=679&height=382)
+
+![EdirlanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=EdirlanDev&show_icons=true&theme=dracula)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next)
+
+
