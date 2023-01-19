@@ -11,3 +11,8 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next)
 
 
+### About me:
+  
+  - Desenvolvedor Full stack Node Js | Formado pela instuição educacional Digital House
+  - Cursando Analise e desenvolvimento de sistemas pela Uninassau 
+  - My stacks: Java Script | Html5 | Css3 | React js |   
