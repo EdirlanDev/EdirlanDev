@@ -6,7 +6,7 @@
 
 ![BANNER](https://media.discordapp.net/attachments/749091631063629874/1065557727839014922/TRANQUIL_BLUE_WITH_LUSCIOUS_RED_SPACE_VIRTUAL_BACKGROUND.jpg?width=679&height=382)
 
-![EdirlanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=EdirlanDev&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdirlanDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next)
 
