@@ -14,5 +14,5 @@
 ### About me:
   
   - Desenvolvedor Full stack Node Js | Formado pela instuição educacional Digital House
-  - Cursando Analise e desenvolvimento de sistemas pela Uninassau 
+  - Cursando Analise e desenvolvimento de sistemas 
   - My stacks: Java Script | Html5 | Css3 | React js |   
