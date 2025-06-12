@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ed.codev/)
 
 
-![BANNER](https://media.discordapp.net/attachments/749091631063629874/1065557727839014922/TRANQUIL_BLUE_WITH_LUSCIOUS_RED_SPACE_VIRTUAL_BACKGROUND.jpg?width=679&height=382)
+![BANNER](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowZ3dqZXU3c2UzOHl2Z2F3aWg4NDJ0Ym1wZ2pqZWpxMDRraWwxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
 
 
 
