@@ -38,7 +38,7 @@
 
 ### 💡 Projetos em andamento
 
-- 🧠 Sistema inteligente de estudos com IA (Istudo)
+- 🧠 Sistema inteligente de estudos com IA
 - ⚖️ Automatização de peças jurídicas e fluxos processuais
 - 📱 Desenvolvimento de chatbot de vendas para WhatsApp com integração a tráfego pago
 
