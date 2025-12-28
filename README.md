@@ -1,5 +1,5 @@
 <h1 align="center">Edirlan Brito 👨‍💻</h1>
-<h3 align="center">Desenvolvedor Full Stack - Node.js | React</h3>
+<h3 align="center">Desenvolvedor Full Stack • Tecnologias para Educação, E-commerce e Automação</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/_edcode" target="_blank">
@@ -10,47 +10,72 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowZ3dqZXU3c2UzOHl2Z2F3aWg4NDJ0Ym1wZ2pqZWpxMDRraWwxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
 
-- Desenvolvedor Full Stack com foco em **Node.js + React.js**
-- Formado pela **Digital House** como Dev Full Stack
-- Cursando **Análise e Desenvolvimento de Sistemas**
-- Também curso **Direito**, com interesse em automações e tecnologia no setor jurídico
+Desenvolvedor **Full Stack** com atuação prática na criação de **aplicações orientadas à conversão**, principalmente em:
+
+- **E-commerce**
+  (checkout com Pix, UTMs, pixels, eventos, landing pages de alta performance)
+- **Sistemas educacionais**
+  (plataformas gamificadas, simuladores, relatórios automáticos e dashboards)
+- **Automação e tecnologia para o setor jurídico**
+  (fluxos documentais inteligentes e geração de peças)
+
+Tenho perfil **hands-on**, orientado a produto e resultados, com foco em **ferramentas que aumentam engajamento, rastreabilidade e conversão**.
 
 ---
 
 ### 🚀 Stacks & Tecnologias
 
-![Stacks](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,mysql,sequelize,git,vite)
+![Stacks](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,mysql,sequelize,git,vite,docker,php,laravel)
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Vite
-- **Backend:** Node.js, Express.js, Sequelize
-- **Banco de dados:** PostgreSQL, MySQL
-- **Outros:** Git, REST API, JWT, Cloudinary, SCRUM
+- **Frontend:** React.js, Tailwind, Vite, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, PHP (+ integrações externas)
+- **Banco de Dados:** PostgreSQL, MySQL, Sequelize ORM
+- **Conversão & Tracking:** TikTok Pixel, UTMs, eventos de checkout, scripts customizados
+- **Pagamentos & APIs:** Pix, integrações com gateways diversos
+- **Outros:** Git/GitHub, REST APIs, Cloudinary, SCRUM, JSON como camada de produto
 
 ---
 
-### 💡 Projetos em andamento
+### 🛠️ O que eu construo na prática
 
-- 🧠 Sistema inteligente de estudos com IA
-- ⚖️ Automatização de peças jurídicas e fluxos processuais
-- 📱 Desenvolvimento de chatbot de vendas para WhatsApp com integração a tráfego pago
+- Páginas de produto **altamente conversivas** com timers, reviews, bundles e variações dinâmicas  
+- **Checkouts Pix** com verificação automática e rastreamento de purchase  
+- **Sistemas de estudos inteligentes** com relatórios dinâmicos (ENEM, vestibulares, olimpíadas)  
+- Plataformas com **dashboards multi-perfil** (admin, professor, aluno, instituição)  
+- **Automação jurídica** e geração de documentos baseada em dados  
+- **APIs personalizadas** para vendas, tracking e performance de campanhas
+
+---
+
+### 🧠 Projetos em andamento
+
+- Plataforma **Istudo** (educação com geração automática de relatórios e simuladores)
+- Ecossistema **TikTok-like commerce**
+  (páginas, pixels, UTMs, purchase tracking, eventos e funis)
+- **Ferramentas automatizadas para o setor jurídico**
+  (documentos & fluxos orientados a dados + IA)
+
+---
+
+### 📌 Visão e valores
+
+> "Tecnologia não é só o código — é a ponte entre intenção e resultado."
+
+- foco em **experiência, dados e performance**
+- visão **produto + engenharia**
+- **aprendizado contínuo** e desenvolvimento sênior passo a passo
 
 ---
 
 ### 📬 Contato
 
-Quer conversar ou colaborar em um projeto?
-
-📩 edirlandev@gmail.com  
-📸 [@_edcode](https://www.instagram.com/_edcode/)  
+📩 **edirlandev@gmail.com**  
+📸 **[@_edcode](https://www.instagram.com/_edcode/)**  
 
 ---
 
-<sup>✨ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!</sup>
+<sup>✨ Obrigado por visitar meu perfil — aberto para colaborações e projetos com impacto real.</sup>
