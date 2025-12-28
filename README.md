@@ -49,8 +49,7 @@
 Quer conversar ou colaborar em um projeto?
 
 📩 edirlandev@gmail.com  
-📸 [@ed.codev](https://www.instagram.com/_edcode/)  
-🔗 LinkedIn: *em breve atualizado*
+📸 [@_edcode](https://www.instagram.com/_edcode/)  
 
 ---
 
