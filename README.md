@@ -1,5 +1,5 @@
 <h1 align="center">Edirlan Brito 👨‍💻</h1>
-<h3 align="center">Desenvolvedor Full Stack • E-commerce | Plataformas Educacionais | iGaming & Automação</h3>
+<h3 align="center">Desenvolvedor Full Stack • Node.js | React | Plataformas & Automação</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/_edcode" target="_blank">
@@ -16,63 +16,59 @@
 
 ---
 
-### 👤 Sobre mim
+### 👨‍💻 Sobre mim
 
-Desenvolvedor **Full Stack**, com foco em:
-
-- **E-commerce** — aplicações orientadas à conversão e produtos digitais
-- **Sistemas educacionais** — relatórios dinâmicos, simuladores e plataformas multi-perfil
-- **iGaming & engagement** — mecânicas interativas, jogos simples e experiências gamificadas
-- **Automação e fluxo de dados** — documentos, integrações e processamento estruturado
-
-Atuação prática e voltada para **produto, métricas e experiência**.
-
----
-
-### 🧰 Stacks & Tecnologias
-
-> *Ferramentas utilizadas em produção e desenvolvimento contínuo*
-
-**Frontend:**  
-HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Vite • Tailwind • Axios
-
-**Backend:**  
-Node.js • Express.js • PHP • Laravel • JSON-based APIs • Middlewares customizados
-
-**Banco de Dados:**  
-PostgreSQL • MySQL • Sequelize ORM • Migrations
-
-**Outros & DevOps:**  
-Docker • Git/GitHub • Cloudinary • REST API • JWT • Webhooks • SCRUM • CI/CD *(básico)*
-
-**Conversão & Dados:**  
-UTMs • Eventos personalizados • Rastreamento de métricas
+- Desenvolvedor **Full Stack** com foco em **Node.js + React.js**
+- Atuação prática em **E-commerce, Plataformas Educacionais e Automação**
+- Experiência com **engenharia orientada a dados, conversão e tracking**
+- Interesse crescente em **iGaming leve e mecânicas de engajamento**
+- Formado pela **Digital House** como Dev Full Stack
+- Cursando **Análise e Desenvolvimento de Sistemas**
+- Também curso **Direito**, explorando automações e tecnologia aplicada ao setor jurídico
 
 ---
 
-### 🧠 Projetos em andamento *(modo discreto)*
+### 🚀 Stacks & Tecnologias
 
-- **Plataforma educacional completa**
-  > dashboards, relatórios inteligentes e simuladores dinâmicos
+> *Tecnologias utilizadas em desenvolvimento de produtos, plataformas e integrações*
 
-- **Soluções para e-commerce de produtos digitais e físicos**
-  > páginas de produto, estruturas modulares, processos de compra e integração de dados
+![Stacks](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,mysql,sequelize,git,vite,php,laravel,docker,redis)
 
-- **Ferramentas e módulos de engajamento**
-  > gamificação aplicada, triggers interativos e mecânicas leves *(incluindo iGaming)*
-
-- **Automação documental**
-  > geração guiada, validações e fluxos baseados em dados
-
-> *Projetos privados — detalhes sob demanda.*
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind, Vite
+- **Backend:** Node.js, Express.js, PHP, Laravel, Webhooks, APIs REST
+- **Banco de dados:** PostgreSQL, MySQL, Sequelize ORM, Migrations
+- **DevOps & Ferramentas:** Docker, Git/GitHub, Cloudinary, CI/CD *(básico)*
+- **Autenticação & Segurança:** JWT, Middleware, Sessions
+- **Conversão & Tracking:** UTMs, eventos personalizados, análises orientadas a dados
+- **Gamificação & iGaming:** mecânicas simples de engajamento e experiências interativas
 
 ---
 
-### 💬 Contato
+### 💡 Projetos em andamento *(em construção)*
 
-📩 **edirlandev@gmail.com**  
-📸 **[@_edcode](https://www.instagram.com/_edcode/)**  
+- 🧠 **Sistema inteligente de estudos e simuladores dinâmicos**  
+  relatórios automáticos, dashboards e performance do aluno
+
+- ⚙️ **Infra de automação estratégica para e-commerce**  
+  tracking, módulos de conversão e integrações modulares
+
+- 🎮 **Módulos leves de engajamento e iGaming**  
+  experiências interativas aplicadas a produtos e serviços
+
+- ⚖️ **Ferramentas jurídicas automatizadas**  
+  fluxos, documentos e validações orientadas a dados
+
+> *Mais detalhes podem ser apresentados sob demanda.*
 
 ---
 
-<sup>✨ Obrigado por visitar — aberto para trocas, ideias e projetos com impacto real.</sup>
+### 📬 Contato
+
+Quer conversar ou colaborar?
+
+📩 edirlandev@gmail.com  
+📸 [@_edcode](https://www.instagram.com/_edcode/)  
+
+---
+
+<sup>✨ Obrigado por visitar meu perfil! Sempre aberto para trocas e construção de soluções reais.</sup>
