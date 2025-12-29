@@ -1,5 +1,5 @@
 <h1 align="center">Edirlan Brito 👨‍💻</h1>
-<h3 align="center">Desenvolvedor Full Stack • Tecnologias para Educação, E-commerce e Automação</h3>
+<h3 align="center">Desenvolvedor Full Stack • E-commerce | Plataformas Educacionais | iGaming & Automação</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/_edcode" target="_blank">
@@ -10,72 +10,69 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 Sobre mim
-
-Desenvolvedor **Full Stack** com atuação prática na criação de **aplicações orientadas à conversão**, principalmente em:
-
-- **E-commerce**
-  (checkout com Pix, UTMs, pixels, eventos, landing pages de alta performance)
-- **Sistemas educacionais**
-  (plataformas gamificadas, simuladores, relatórios automáticos e dashboards)
-- **Automação e tecnologia para o setor jurídico**
-  (fluxos documentais inteligentes e geração de peças)
-
-Tenho perfil **hands-on**, orientado a produto e resultados, com foco em **ferramentas que aumentam engajamento, rastreabilidade e conversão**.
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowZ3dqZXU3c2UzOHl2Z2F3aWg4NDJ0Ym1wZ2pqZWpxMDRraWwxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
+</p>
 
 ---
 
-### 🚀 Stacks & Tecnologias
+### 👤 Sobre mim
 
-![Stacks](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,mysql,sequelize,git,vite,docker,php,laravel)
+Desenvolvedor **Full Stack**, com foco em:
 
-- **Frontend:** React.js, Tailwind, Vite, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, PHP (+ integrações externas)
-- **Banco de Dados:** PostgreSQL, MySQL, Sequelize ORM
-- **Conversão & Tracking:** TikTok Pixel, UTMs, eventos de checkout, scripts customizados
-- **Pagamentos & APIs:** Pix, integrações com gateways diversos
-- **Outros:** Git/GitHub, REST APIs, Cloudinary, SCRUM, JSON como camada de produto
+- **E-commerce** — aplicações orientadas à conversão e produtos digitais
+- **Sistemas educacionais** — relatórios dinâmicos, simuladores e plataformas multi-perfil
+- **iGaming & engagement** — mecânicas interativas, jogos simples e experiências gamificadas
+- **Automação e fluxo de dados** — documentos, integrações e processamento estruturado
 
----
-
-### 🛠️ O que eu construo na prática
-
-- Páginas de produto **altamente conversivas** com timers, reviews, bundles e variações dinâmicas  
-- **Checkouts Pix** com verificação automática e rastreamento de purchase  
-- **Sistemas de estudos inteligentes** com relatórios dinâmicos (ENEM, vestibulares, olimpíadas)  
-- Plataformas com **dashboards multi-perfil** (admin, professor, aluno, instituição)  
-- **Automação jurídica** e geração de documentos baseada em dados  
-- **APIs personalizadas** para vendas, tracking e performance de campanhas
+Atuação prática e voltada para **produto, métricas e experiência**.
 
 ---
 
-### 🧠 Projetos em andamento
+### 🧰 Stacks & Tecnologias
 
-- Plataforma **Istudo** (educação com geração automática de relatórios e simuladores)
-- Ecossistema **TikTok-like commerce**
-  (páginas, pixels, UTMs, purchase tracking, eventos e funis)
-- **Ferramentas automatizadas para o setor jurídico**
-  (documentos & fluxos orientados a dados + IA)
+> *Ferramentas utilizadas em produção e desenvolvimento contínuo*
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Vite • Tailwind • Axios
+
+**Backend:**  
+Node.js • Express.js • PHP • Laravel • JSON-based APIs • Middlewares customizados
+
+**Banco de Dados:**  
+PostgreSQL • MySQL • Sequelize ORM • Migrations
+
+**Outros & DevOps:**  
+Docker • Git/GitHub • Cloudinary • REST API • JWT • Webhooks • SCRUM • CI/CD *(básico)*
+
+**Conversão & Dados:**  
+UTMs • Eventos personalizados • Rastreamento de métricas
 
 ---
 
-### 📌 Visão e valores
+### 🧠 Projetos em andamento *(modo discreto)*
 
-> "Tecnologia não é só o código — é a ponte entre intenção e resultado."
+- **Plataforma educacional completa**
+  > dashboards, relatórios inteligentes e simuladores dinâmicos
 
-- foco em **experiência, dados e performance**
-- visão **produto + engenharia**
-- **aprendizado contínuo** e desenvolvimento sênior passo a passo
+- **Soluções para e-commerce de produtos digitais e físicos**
+  > páginas de produto, estruturas modulares, processos de compra e integração de dados
+
+- **Ferramentas e módulos de engajamento**
+  > gamificação aplicada, triggers interativos e mecânicas leves *(incluindo iGaming)*
+
+- **Automação documental**
+  > geração guiada, validações e fluxos baseados em dados
+
+> *Projetos privados — detalhes sob demanda.*
 
 ---
 
-### 📬 Contato
+### 💬 Contato
 
 📩 **edirlandev@gmail.com**  
 📸 **[@_edcode](https://www.instagram.com/_edcode/)**  
 
 ---
 
-<sup>✨ Obrigado por visitar meu perfil — aberto para colaborações e projetos com impacto real.</sup>
+<sup>✨ Obrigado por visitar — aberto para trocas, ideias e projetos com impacto real.</sup>
